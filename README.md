@@ -2,7 +2,9 @@
 
 # ปวช.
 
-[Library for Workshop 1](https://natheelic.github.io/vecskill/KidBright/iPORT_v1.1.0_plugin.zip)
+[KidBright IDE](https://www.kid-bright.org/download/12254/)
+
+[Plugin_iPORT_v1.1.0](https://natheelic.github.io/vecskill/KidBright/iPORT_v1.1.0_plugin.zip)
 
 # ปวส.
 
